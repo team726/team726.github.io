@@ -11,4 +11,4 @@
 
 이 앱은 여러분이 식물을 키우는 데에 큰 도움이 될 것입니다. 다운로드 받아서 식물을 키우는 즐거움을 더해보세요!
 
-email: contact@team726.com
+Contact us: contact at team726 dot com
